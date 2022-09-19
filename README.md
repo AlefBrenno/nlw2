@@ -4,7 +4,7 @@
 
 ## Trilha Explorer
 
-Link para o acesso:[clique aqui]()
+Link para o acesso:[clique aqui](https://alefbrenno.github.io/nlw2/)
 
 # Tecnologias
 - HTML
